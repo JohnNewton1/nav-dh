@@ -1,7 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
 itle = "321导航"
-logo:images/2.png
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
